@@ -3,6 +3,15 @@
 
 Voici une liste d’actions à effectuer pour améliorer l’autonomie de votre iPad Pro 2018.
 
+## Mac<->Ipad : Vérifier L'état de la batterie
+- Telecharger sur le Mac **coconutbattery** Gratuit : https://www.coconut-flavour.com/coconutbattery/
+- Brancher l'**ipad au mac**
+- Ouvrir **coconut**, onglet **Iphone/Ipad**
+- Lire le % de **Battery Health** et **Charge Cycle**
+- Battery Health >80%
+- Charge Cycle <100
+
+
 ---
 
 ## 🔧 Étape 1 : Vérifier quelles apps consomment le plus
