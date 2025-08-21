@@ -21,8 +21,8 @@ Voici une liste d’actions à effectuer pour améliorer l’autonomie de votre 
 
 ---
 
-## 🌍 Étape 3 : Tester un autre navigateur
-- [ ] Télécharger un navigateur alternatif (**DuckDuckGo, Chrome, Firefox…**)
+## 🌍 Étape 3 : Utiliser un autre navigateur
+- [ ] Télécharger un navigateur alternatif (**Brave, Chrome…**)
 - [ ] Utiliser ce navigateur pendant quelques jours
 - [ ] Comparer la consommation avec Safari
 
@@ -37,20 +37,20 @@ Voici une liste d’actions à effectuer pour améliorer l’autonomie de votre 
 ## 📱 Étape 5 : Identifier et configurer les applications énergivores
 - [ ] Ouvrir **Réglages > Batterie**
 - [ ] Repérer les applications qui consomment beaucoup
-- [ ] Aller dans **Réglages > Général > Rafraîchissement des apps en arrière-plan**
+- [ ] Aller dans **Réglages > Général > Actualiser en arrière-plan > Désactiver l’interrupteur des Apps**
 - [ ] Désactiver le rafraîchissement uniquement pour ces applications
 
 ---
 
 ## 💡 Étape 6 : Ajuster luminosité et écran
 - [ ] Aller dans **Réglages > Luminosité et affichage**
-- [ ] Activer **True Tone** et **Luminosité automatique**
-- [ ] Diminuer manuellement la luminosité si possible
-- [ ] Régler **Verrouillage automatique** sur **2 minutes** (ou moins)
+- [ ] Activer **True Tone** et **Luminosité automatique** si disponible
+- [ ] Désactivé Lever pour activer
+- [ ] Régler **Verrouillage automatique** sur **30 secondes** 
 
 ---
 
-## 🎛️ Étape 7 : Réduire les animations
+## 🎛️ Étape 7 : Réduire les animations si vraiment il n'y a aucune amélioration
 - [ ] Aller dans **Réglages > Accessibilité > Mouvement**
 - [ ] Activer **Réduire les animations**
 
