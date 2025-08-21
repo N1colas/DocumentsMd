@@ -28,13 +28,7 @@ Voici une liste d’actions à effectuer pour améliorer l’autonomie de votre 
 
 ---
 
-## 🔋 Étape 4 : Activer le Mode faible consommation
-- [ ] Ouvrir **Réglages > Batterie**
-- [ ] Activer **Mode faible consommation** (icône batterie jaune)
-
----
-
-## 📱 Étape 5 : Identifier et configurer les applications énergivores
+## 📱 Étape 4 : Identifier et configurer les applications énergivores
 - [ ] Ouvrir **Réglages > Batterie**
 - [ ] Repérer les applications qui consomment beaucoup
 - [ ] Aller dans **Réglages > Général > Actualiser en arrière-plan > Désactiver l’interrupteur des Apps**
@@ -42,23 +36,29 @@ Voici une liste d’actions à effectuer pour améliorer l’autonomie de votre 
 
 ---
 
-## 💡 Étape 6 : Ajuster luminosité et écran
+## 💡 Étape 5 : Ajuster luminosité et écran
 - [ ] Aller dans **Réglages > Luminosité et affichage**
-- [ ] Activer **True Tone** et **Luminosité automatique** si disponible
+- [ ] Activer **True Tone** et **Luminosité automatique** (si disponible)
 - [ ] Désactivé Lever pour activer
-- [ ] Régler **Verrouillage automatique** sur **30 secondes** 
+- [ ] Régler **Verrouillage automatique** sur **30 secondes**
 
 ---
 
-## 🎛️ Étape 7 : Réduire les animations si vraiment il n'y a aucune amélioration
-- [ ] Aller dans **Réglages > Accessibilité > Mouvement**
-- [ ] Activer **Réduire les animations**
-
----
-
-## ⏳ Étape 8 : Patience après mise à jour
+## ⏳ Étape 6 : Patience après mise à jour
 - [ ] Attendre 1 à 2 jours après une grosse mise à jour (iPadOS 18)
 - [ ] Vérifier si la batterie se stabilise une fois les tâches de fond terminées
+
+---
+
+## 🔋 Étape 7 : Activer le Mode faible consommation (si toujours rien)
+- [ ] Ouvrir **Réglages > Batterie**
+- [ ] Activer **Mode faible consommation** (icône batterie jaune)
+
+---
+
+## 🎛️ Étape 8 : Réduire les animations (si vraiment il n'y a aucune amélioration)
+- [ ] Aller dans **Réglages > Accessibilité > Mouvement**
+- [ ] Activer **Réduire les animations**
 
 ---
 
